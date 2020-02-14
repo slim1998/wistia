@@ -1,0 +1,275 @@
+.liste-container{
+    display: flex;
+    justify-content:space-between;
+    width: 35%;
+    height: 100%;
+    position: relative;
+    align-items: baseline;
+    padding: 150px;
+
+}
+
+li{
+    list-style: none;
+}
+.nav-buttons{
+    display: flex;
+    justify-content: flex-end;
+    border: 2px;
+    margin: 70px;
+    color: blue;
+    width: 200px;
+    height: 55px;
+    border-radius: 10px;
+}
+.nav-buttons:hover{
+    transform: translateY(-7px);
+    color: #fff;
+    background-color: white;
+}
+.nav-buttons2{
+    border :2px;
+    width: 200px;
+    height: 55px;
+    border-radius: 20px;
+}
+.nav-buttons2:hover{
+    transform: translateY(-7px);
+    background-color:transparent;
+    border:black solid;
+
+}
+.nav-buttons3{
+    border :2px;
+    width: 200px;
+    height: 55px;
+    color: cornflowerblue;
+    border-radius: 45px;
+    background-color: cornflowerblue;
+
+}
+.nav-buttons3:hover{
+    transform: translateY(-7px);
+    background-color: cornflowerblue;
+}
+.liste-container {
+    padding: 0 25px;
+    margin-right: 40px;
+}
+ul{
+    position: relative;
+}
+.container{
+    justify-content: space-between;
+    display: flex;
+    align-items: baseline;
+}
+
+.section2{
+    background-color: #c896a5;
+    width:100%;
+    height:400%;
+    padding: 150px;
+    font-size: x-large;
+    font-style: unset;
+}
+.nav-buttons2{
+    border-radius: black 5px;
+    
+}
+
+
+
+.section3{
+    /* margin: 10%; */
+    /* margin-left: 0%; */
+    display: flex;
+    width: auto;
+    /* width: 100%; */
+    /* height: 400px; */
+    font-style: oblique;
+    font-size: large;
+
+}
+.upvideo{
+    background-color: #FED24A;
+    padding: 80px;
+}
+.soapbox{
+    background-color: rgb(81, 194, 159);
+    padding: 80px;
+}
+.growvideo{
+    background-color: rgb(62, 169, 245);
+    padding: 70px;
+}
+
+.dropwistia{
+    position: relative;
+}
+.dropwistia:hover .dropdownwistia {
+    display: flex;
+}
+.dropdownwistia{
+    display:none;
+    position: absolute;
+    background: white;
+    width: 1500px;
+    height: 250px;
+    font-size: large;
+    
+}
+
+
+
+.dropdown{
+    display: none;
+    position: absolute;
+}
+.drop:hover .dropdown{
+    display: flex;
+
+}
+
+.droplearning{
+    position: relative;
+
+}
+.dropdownlearning{
+    position: absolute;
+    display: none;
+}
+.droplearning:hover .dropdownlearning{
+display: block;
+}
+    
+
+.section4{
+display: flex;
+justify-content: space-between;
+margin: 10%;
+flex-wrap: wrap;
+font-family: ;
+
+}
+.imagee{
+    width: 400px;
+    justify-content: space-between;
+    padding: 20px;
+    
+}
+.section5{
+    margin: 0px 60px;
+}
+.titrevideo{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+.titre3{
+    margin-left: 20px;
+    font-size: large;
+    position: relative;
+    left: -73px;
+   
+
+}
+.titre1{
+    font-size: medium;
+    position: absolute;
+    left: 80px;
+    text-decoration: none;
+}
+.titre2{
+    position: absolute;
+    left: 550px;
+}
+.last{
+    margin: 10% 10%
+}
+.lasttitre{
+    text-align: center;
+    font-style: inherit;
+}
+.wistiacreates{
+    margin: 10% 0px;
+    border:1px solid;
+    width: 25%;
+    
+}
+footer{
+    border:2px solid;
+    background-color: #2A2D35;
+    
+}
+.est{
+    border: 1px solid;
+    width: 25%;
+}
+.est2{
+    border: 1px solid;
+    width: 25%;
+}
+.est3{
+    border: 1px solid;
+    width: 25%;
+}
+.lasttitrest{
+    text-align: center;
+    font-style: inherit;
+}
+.lasttables{
+    display: flex;
+}
+.banda{
+    display: flex;
+    font-size: 18px;
+}
+.banda2{
+    display: flex;
+    font-size: 18px;
+}
+.grandbanda{
+    display: flex;
+    justify-content: space-between;
+}
+.bandewi{
+    text-decoration: none;
+}
+
+.premierecolumn{
+    display: flex;
+
+}
+.deuxiemecolumn{
+    display: flex;
+    position: relative;
+    top: -14px;
+}
+.bandewi{
+    display: flex;
+    padding: 200px;
+}
+.buttonget{
+    background-color: cornflowerblue;
+    border: 2px solid silver;
+    border-radius: 10px;
+    width: 150px;
+}
+.buttonlog{
+    border-radius: 10px;
+    width: 150px;
+}
+.bandewi a{
+    text-decoration: none;
+     color: white;
+}
+.elvideo{
+    position: absolute;
+    left: 70pc;
+    top: 40%;
+    width: 350px;
+    height: 300px;
+}
